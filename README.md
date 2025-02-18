@@ -1,7 +1,7 @@
 # 42 Cursus - 본과정 (Cursus)
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="200" style="filter: invert(1);"/>
 </p>
 
 ## 📌 Introduction
