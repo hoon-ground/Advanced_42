@@ -1,11 +1,11 @@
-# 42 Cursus - 본과정 (Cursus)
+# 42본과정
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="200"/>
 </p>
 
 ## 📌 Introduction
-42 본과정(Cursus)에서 수행하는 과제 목록과 간단한 설명을 정리한 문서. 프로젝트를 수행하면서 얻은 경험과 배운 내용을 기록하기 위해 작성됨.
+42 본과정에서 수행하는 과제 목록과 간단한 설명을 정리한 문서. 프로젝트를 수행하면서 얻은 경험과 배운 내용을 기록하기 위해 작성됨.
 
 ## 🚀 프로젝트 목록
 
